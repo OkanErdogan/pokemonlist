@@ -1,0 +1,21 @@
+ext.versions = [
+        minSdk           : 23,
+        compileSdk       : 32,
+        versionCode      : 1,
+        versionName      : '1.0.0',
+
+        // di
+        hilt      : '2.40',
+
+        //Glide
+        glide       : "4.11.0",
+
+        // Compose
+        compose          : '1.1.0',
+        activityCompose  : '1.4.0',
+        accompanist      : '0.23.0',
+
+        // network
+        retrofitVersion  : '2.9.0',
+        okhttpVersion    : '4.4.0',
+]
